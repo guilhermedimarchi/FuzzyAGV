@@ -1,0 +1,99 @@
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyAGV.csprojResolveAssemblyReference.cache
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyAGV.AboutForm.resources
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyAGV.MainForm.resources
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyRobot.Properties.Resources.resources
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyAGV.csproj.GenerateResource.Cache
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyAGV.csprojFakesResolveAssemblyReference.cache
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\bin\Debug\FuzzyRobot.exe
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\bin\Debug\FuzzyRobot.pdb
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\bin\Debug\AForge.Fuzzy.Fakes.fakesconfig
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\bin\Debug\AForge.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\bin\Debug\AForge.Fuzzy.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.pdb
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.xml
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.ah
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.ch
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.cs
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.csproj
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.fakes
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.fakesconfig
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\f.snk
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.pdb
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\f.csproj.FileListAbsolute.txt
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\ResolveAssemblyReference.cache
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\fakes.args
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyRobot.exe
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\FuzzyRobot.pdb
+G:\Inteligência Computacional - Lab\IC\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.exe
+G:\Inteligência Computacional - Lab\IC\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.pdb
+H:\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.exe
+H:\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.pdb
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.exe
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.pdb
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\bin\Debug\FuzzyRobot.exe
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\bin\Debug\FuzzyRobot.pdb
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\bin\Debug\AForge.Fuzzy.Fakes.fakesconfig
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyAGV.csprojFakesResolveAssemblyReference.cache
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.dll
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.dll
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.dll
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.pdb
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.xml
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\desktop.ini
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\desktop.ini
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.ah
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.ch
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.cs
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.csproj
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.fakes
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.fakesconfig
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\f.snk
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.dll
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.pdb
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\o\desktop.ini
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\o\f.csproj.FileListAbsolute.txt
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\aff\o\ResolveAssemblyReference.cache
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\desktop.ini
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\Fakes\fakes.args
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyAGV.csprojResolveAssemblyReference.cache
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyAGV.AboutForm.resources
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyAGV.MainForm.resources
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyRobot.Properties.Resources.resources
+D:\Faculdade\1 - 10 SEMESTRE GOOGLE DRIVE\9º Sem\9º\Inteligência Computacional - Lab\Anderson\Inteligência computacional\FuzzyAGVEx\obj\Debug\FuzzyAGV.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\FuzzyAGVEx\obj\Debug\FuzzyRobot.exe
+C:\Users\Guilherme\Desktop\FuzzyAGVEx\obj\Debug\FuzzyRobot.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyRobot.exe
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyRobot.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\bin\Debug\FuzzyRobot.exe
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\bin\Debug\FuzzyRobot.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\bin\Debug\AForge.Fuzzy.Fakes.fakesconfig
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyAGV.csprojFakesResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\b\AForge.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\b\AForge.Fuzzy.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.xml
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.ah
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.ch
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.cs
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.csproj
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.fakes
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.fakesconfig
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\f.snk
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.dll
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.pdb
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\o\f.csproj.FileListAbsolute.txt
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\aff\o\ResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\Fakes\fakes.args
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyAGV.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyAGV.AboutForm.resources
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyAGV.MainForm.resources
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyRobot.Properties.Resources.resources
+C:\Users\Guilherme\Google Drive\9Sem\Inteligencia Computacional - LAB\Exercicios\FuzzyAGV\obj\Debug\FuzzyAGV.csproj.GenerateResource.Cache

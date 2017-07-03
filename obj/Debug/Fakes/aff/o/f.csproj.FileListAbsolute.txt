@@ -1,0 +1,9 @@
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.xml
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.Fakes.pdb
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\AForge.Fuzzy.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\ResolveAssemblyReference.cache
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.dll
+C:\Users\BRN\Downloads\FuzzyAGVEx\FuzzyAGVEx\obj\Debug\Fakes\aff\o\AForge.Fuzzy.Fakes.pdb

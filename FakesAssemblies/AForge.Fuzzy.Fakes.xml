@@ -1,0 +1,1169 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AForge.Fuzzy.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier">
+            <summary>Shim type of AForge.Fuzzy.CentroidDefuzzifier</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.#ctor(AForge.Fuzzy.CentroidDefuzzifier)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.Bind(AForge.Fuzzy.IDefuzzifier)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.ConstructorInt32">
+            <summary>Sets the shim of CentroidDefuzzifier.CentroidDefuzzifier(Int32 intervals)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.DefuzzifyFuzzyOutputINorm">
+            <summary>Sets the shim of CentroidDefuzzifier.Defuzzify(FuzzyOutput fuzzyOutput, INorm normOperator)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimCentroidDefuzzifier.AllInstances.DefuzzifyFuzzyOutputINorm">
+            <summary>Sets the shim of CentroidDefuzzifier.Defuzzify(FuzzyOutput fuzzyOutput, INorm normOperator)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimClause">
+            <summary>Shim type of AForge.Fuzzy.Clause</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimClause.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimClause.#ctor(AForge.Fuzzy.Clause)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimClause.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimClause.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.ConstructorLinguisticVariableFuzzySet">
+            <summary>Sets the shim of Clause.Clause(LinguisticVariable variable, FuzzySet label)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.Evaluate">
+            <summary>Sets the shim of Clause.Evaluate()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.LabelGet">
+            <summary>Sets the shim of Clause.get_Label()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.ToString">
+            <summary>Sets the shim of Clause.ToString()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.VariableGet">
+            <summary>Sets the shim of Clause.get_Variable()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimClause.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.AllInstances.Evaluate">
+            <summary>Sets the shim of Clause.Evaluate()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.AllInstances.LabelGet">
+            <summary>Sets the shim of Clause.get_Label()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.AllInstances.ToString01">
+            <summary>Sets the shim of Clause.ToString()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimClause.AllInstances.VariableGet">
+            <summary>Sets the shim of Clause.get_Variable()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimDatabase">
+            <summary>Shim type of AForge.Fuzzy.Database</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimDatabase.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimDatabase.#ctor(AForge.Fuzzy.Database)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimDatabase.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimDatabase.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.AddVariableLinguisticVariable">
+            <summary>Sets the shim of Database.AddVariable(LinguisticVariable variable)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.ClearVariables">
+            <summary>Sets the shim of Database.ClearVariables()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.Constructor">
+            <summary>Sets the shim of Database.Database()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.GetVariableString">
+            <summary>Sets the shim of Database.GetVariable(String variableName)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimDatabase.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.AllInstances.AddVariableLinguisticVariable">
+            <summary>Sets the shim of Database.AddVariable(LinguisticVariable variable)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.AllInstances.ClearVariables">
+            <summary>Sets the shim of Database.ClearVariables()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimDatabase.AllInstances.GetVariableString">
+            <summary>Sets the shim of Database.GetVariable(String variableName)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimFuzzyOutput">
+            <summary>Shim type of AForge.Fuzzy.FuzzyOutput</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.#ctor(AForge.Fuzzy.FuzzyOutput)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.AddOutputStringSingle">
+            <summary>Sets the shim of FuzzyOutput.AddOutput(String labelName, Single firingStrength)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ClearOutput">
+            <summary>Sets the shim of FuzzyOutput.ClearOutput()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ConstructorLinguisticVariable">
+            <summary>Sets the shim of FuzzyOutput.FuzzyOutput(LinguisticVariable outputVar)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.OutputListGet">
+            <summary>Sets the shim of FuzzyOutput.get_OutputList()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.OutputVariableGet">
+            <summary>Sets the shim of FuzzyOutput.get_OutputVariable()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimFuzzyOutput.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.AllInstances.AddOutputStringSingle">
+            <summary>Sets the shim of FuzzyOutput.AddOutput(String labelName, Single firingStrength)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.AllInstances.ClearOutput">
+            <summary>Sets the shim of FuzzyOutput.ClearOutput()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.AllInstances.OutputListGet">
+            <summary>Sets the shim of FuzzyOutput.get_OutputList()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.AllInstances.OutputVariableGet">
+            <summary>Sets the shim of FuzzyOutput.get_OutputVariable()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint">
+            <summary>Shim type of AForge.Fuzzy.FuzzyOutput+OutputConstraint</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.#ctor(AForge.Fuzzy.FuzzyOutput.OutputConstraint)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.ConstructorStringSingle">
+            <summary>Sets the shim of OutputConstraint.OutputConstraint(String label, Single firingStrength)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.FiringStrengthGet">
+            <summary>Sets the shim of OutputConstraint.get_FiringStrength()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.LabelGet">
+            <summary>Sets the shim of OutputConstraint.get_Label()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.AllInstances.FiringStrengthGet">
+            <summary>Sets the shim of OutputConstraint.get_FiringStrength()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzyOutput.ShimOutputConstraint.AllInstances.LabelGet">
+            <summary>Sets the shim of OutputConstraint.get_Label()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimFuzzySet">
+            <summary>Shim type of AForge.Fuzzy.FuzzySet</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzySet.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzySet.#ctor(AForge.Fuzzy.FuzzySet)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzySet.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimFuzzySet.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.ConstructorStringIMembershipFunction">
+            <summary>Sets the shim of FuzzySet.FuzzySet(String name, IMembershipFunction function)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.GetMembershipSingle">
+            <summary>Sets the shim of FuzzySet.GetMembership(Single x)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.LeftLimitGet">
+            <summary>Sets the shim of FuzzySet.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.NameGet">
+            <summary>Sets the shim of FuzzySet.get_Name()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.RightLimitGet">
+            <summary>Sets the shim of FuzzySet.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimFuzzySet.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.AllInstances.GetMembershipSingle">
+            <summary>Sets the shim of FuzzySet.GetMembership(Single x)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.AllInstances.LeftLimitGet">
+            <summary>Sets the shim of FuzzySet.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.AllInstances.NameGet">
+            <summary>Sets the shim of FuzzySet.get_Name()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimFuzzySet.AllInstances.RightLimitGet">
+            <summary>Sets the shim of FuzzySet.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimInferenceSystem">
+            <summary>Shim type of AForge.Fuzzy.InferenceSystem</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimInferenceSystem.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimInferenceSystem.#ctor(AForge.Fuzzy.InferenceSystem)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimInferenceSystem.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimInferenceSystem.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.ConstructorDatabaseIDefuzzifier">
+            <summary>Sets the shim of InferenceSystem.InferenceSystem(Database database, IDefuzzifier defuzzifier)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.ConstructorDatabaseIDefuzzifierINormICoNorm">
+            <summary>Sets the shim of InferenceSystem.InferenceSystem(Database database, IDefuzzifier defuzzifier, INorm normOperator, ICoNorm conormOperator)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.EvaluateString">
+            <summary>Sets the shim of InferenceSystem.Evaluate(String variableName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.ExecuteInferenceString">
+            <summary>Sets the shim of InferenceSystem.ExecuteInference(String variableName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.GetLinguisticVariableString">
+            <summary>Sets the shim of InferenceSystem.GetLinguisticVariable(String variableName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.GetRuleString">
+            <summary>Sets the shim of InferenceSystem.GetRule(String ruleName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.NewRuleStringString">
+            <summary>Sets the shim of InferenceSystem.NewRule(String name, String rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.SetInputStringSingle">
+            <summary>Sets the shim of InferenceSystem.SetInput(String variableName, Single value)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances.EvaluateString">
+            <summary>Sets the shim of InferenceSystem.Evaluate(String variableName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances.ExecuteInferenceString">
+            <summary>Sets the shim of InferenceSystem.ExecuteInference(String variableName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances.GetLinguisticVariableString">
+            <summary>Sets the shim of InferenceSystem.GetLinguisticVariable(String variableName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances.GetRuleString">
+            <summary>Sets the shim of InferenceSystem.GetRule(String ruleName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances.NewRuleStringString">
+            <summary>Sets the shim of InferenceSystem.NewRule(String name, String rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimInferenceSystem.AllInstances.SetInputStringSingle">
+            <summary>Sets the shim of InferenceSystem.SetInput(String variableName, Single value)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimLinguisticVariable">
+            <summary>Shim type of AForge.Fuzzy.LinguisticVariable</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimLinguisticVariable.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimLinguisticVariable.#ctor(AForge.Fuzzy.LinguisticVariable)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimLinguisticVariable.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimLinguisticVariable.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AddLabelFuzzySet">
+            <summary>Sets the shim of LinguisticVariable.AddLabel(FuzzySet label)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.ClearLabels">
+            <summary>Sets the shim of LinguisticVariable.ClearLabels()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.ConstructorStringSingleSingle">
+            <summary>Sets the shim of LinguisticVariable.LinguisticVariable(String name, Single start, Single end)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.EndGet">
+            <summary>Sets the shim of LinguisticVariable.get_End()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.GetLabelMembershipStringSingle">
+            <summary>Sets the shim of LinguisticVariable.GetLabelMembership(String labelName, Single value)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.GetLabelString">
+            <summary>Sets the shim of LinguisticVariable.GetLabel(String labelName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.NameGet">
+            <summary>Sets the shim of LinguisticVariable.get_Name()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.NumericInputGet">
+            <summary>Sets the shim of LinguisticVariable.get_NumericInput()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.NumericInputSetSingle">
+            <summary>Sets the shim of LinguisticVariable.set_NumericInput(Single value)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.StartGet">
+            <summary>Sets the shim of LinguisticVariable.get_Start()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.AddLabelFuzzySet">
+            <summary>Sets the shim of LinguisticVariable.AddLabel(FuzzySet label)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.ClearLabels">
+            <summary>Sets the shim of LinguisticVariable.ClearLabels()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.EndGet">
+            <summary>Sets the shim of LinguisticVariable.get_End()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.GetLabelMembershipStringSingle">
+            <summary>Sets the shim of LinguisticVariable.GetLabelMembership(String labelName, Single value)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.GetLabelString">
+            <summary>Sets the shim of LinguisticVariable.GetLabel(String labelName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.NameGet">
+            <summary>Sets the shim of LinguisticVariable.get_Name()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.NumericInputGet">
+            <summary>Sets the shim of LinguisticVariable.get_NumericInput()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.NumericInputSetSingle">
+            <summary>Sets the shim of LinguisticVariable.set_NumericInput(Single value)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimLinguisticVariable.AllInstances.StartGet">
+            <summary>Sets the shim of LinguisticVariable.get_Start()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimMaximumCoNorm">
+            <summary>Shim type of AForge.Fuzzy.MaximumCoNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.#ctor(AForge.Fuzzy.MaximumCoNorm)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.Bind(AForge.Fuzzy.ICoNorm)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.Constructor">
+            <summary>Sets the shim of MaximumCoNorm.MaximumCoNorm()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.EvaluateSingleSingle">
+            <summary>Sets the shim of MaximumCoNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMaximumCoNorm.AllInstances.EvaluateSingleSingle">
+            <summary>Sets the shim of MaximumCoNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimMinimumNorm">
+            <summary>Shim type of AForge.Fuzzy.MinimumNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMinimumNorm.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMinimumNorm.#ctor(AForge.Fuzzy.MinimumNorm)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMinimumNorm.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMinimumNorm.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimMinimumNorm.Bind(AForge.Fuzzy.INorm)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMinimumNorm.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMinimumNorm.Constructor">
+            <summary>Sets the shim of MinimumNorm.MinimumNorm()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMinimumNorm.EvaluateSingleSingle">
+            <summary>Sets the shim of MinimumNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimMinimumNorm.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimMinimumNorm.AllInstances.EvaluateSingleSingle">
+            <summary>Sets the shim of MinimumNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimNotOperator">
+            <summary>Shim type of AForge.Fuzzy.NotOperator</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimNotOperator.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimNotOperator.#ctor(AForge.Fuzzy.NotOperator)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimNotOperator.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimNotOperator.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimNotOperator.Bind(AForge.Fuzzy.IUnaryOperator)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimNotOperator.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimNotOperator.Constructor">
+            <summary>Sets the shim of NotOperator.NotOperator()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimNotOperator.EvaluateSingle">
+            <summary>Sets the shim of NotOperator.Evaluate(Single membership)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimNotOperator.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimNotOperator.AllInstances.EvaluateSingle">
+            <summary>Sets the shim of NotOperator.Evaluate(Single membership)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction">
+            <summary>Shim type of AForge.Fuzzy.PiecewiseLinearFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.#ctor(AForge.Fuzzy.PiecewiseLinearFunction)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.Bind(AForge.Fuzzy.IMembershipFunction)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.Constructor">
+            <summary>Sets the shim of PiecewiseLinearFunction.PiecewiseLinearFunction()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.ConstructorPointArray">
+            <summary>Sets the shim of PiecewiseLinearFunction.PiecewiseLinearFunction(Point[] points)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.GetMembershipSingle">
+            <summary>Sets the shim of PiecewiseLinearFunction.GetMembership(Single x)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.LeftLimitGet">
+            <summary>Sets the shim of PiecewiseLinearFunction.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.RightLimitGet">
+            <summary>Sets the shim of PiecewiseLinearFunction.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.AllInstances.GetMembershipSingle">
+            <summary>Sets the shim of PiecewiseLinearFunction.GetMembership(Single x)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.AllInstances.LeftLimitGet">
+            <summary>Sets the shim of PiecewiseLinearFunction.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimPiecewiseLinearFunction.AllInstances.RightLimitGet">
+            <summary>Sets the shim of PiecewiseLinearFunction.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimProductNorm">
+            <summary>Shim type of AForge.Fuzzy.ProductNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimProductNorm.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimProductNorm.#ctor(AForge.Fuzzy.ProductNorm)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimProductNorm.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimProductNorm.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimProductNorm.Bind(AForge.Fuzzy.INorm)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimProductNorm.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimProductNorm.Constructor">
+            <summary>Sets the shim of ProductNorm.ProductNorm()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimProductNorm.EvaluateSingleSingle">
+            <summary>Sets the shim of ProductNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimProductNorm.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimProductNorm.AllInstances.EvaluateSingleSingle">
+            <summary>Sets the shim of ProductNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimRule">
+            <summary>Shim type of AForge.Fuzzy.Rule</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRule.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRule.#ctor(AForge.Fuzzy.Rule)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRule.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRule.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.ConstructorDatabaseStringString">
+            <summary>Sets the shim of Rule.Rule(Database fuzzyDatabase, String name, String rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.ConstructorDatabaseStringStringINormICoNorm">
+            <summary>Sets the shim of Rule.Rule(Database fuzzyDatabase, String name, String rule, INorm normOperator, ICoNorm coNormOperator)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.EvaluateFiringStrength">
+            <summary>Sets the shim of Rule.EvaluateFiringStrength()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.GetRPNExpression">
+            <summary>Sets the shim of Rule.GetRPNExpression()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.GetRuleTokensString">
+            <summary>Sets the shim of Rule.GetRuleTokens(String rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.NameGet">
+            <summary>Sets the shim of Rule.get_Name()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.NameSetString">
+            <summary>Sets the shim of Rule.set_Name(String value)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.OutputGet">
+            <summary>Sets the shim of Rule.get_Output()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.ParseRule">
+            <summary>Sets the shim of Rule.ParseRule()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.PriorityString">
+            <summary>Sets the shim of Rule.Priority(String Operator)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimRule.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.EvaluateFiringStrength">
+            <summary>Sets the shim of Rule.EvaluateFiringStrength()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.GetRPNExpression">
+            <summary>Sets the shim of Rule.GetRPNExpression()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.GetRuleTokensString">
+            <summary>Sets the shim of Rule.GetRuleTokens(String rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.NameGet">
+            <summary>Sets the shim of Rule.get_Name()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.NameSetString">
+            <summary>Sets the shim of Rule.set_Name(String value)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.OutputGet">
+            <summary>Sets the shim of Rule.get_Output()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.ParseRule">
+            <summary>Sets the shim of Rule.ParseRule()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRule.AllInstances.PriorityString">
+            <summary>Sets the shim of Rule.Priority(String Operator)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimRulebase">
+            <summary>Shim type of AForge.Fuzzy.Rulebase</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRulebase.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRulebase.#ctor(AForge.Fuzzy.Rulebase)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRulebase.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimRulebase.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.AddRuleRule">
+            <summary>Sets the shim of Rulebase.AddRule(Rule rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.ClearRules">
+            <summary>Sets the shim of Rulebase.ClearRules()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.Constructor">
+            <summary>Sets the shim of Rulebase.Rulebase()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.GetRuleString">
+            <summary>Sets the shim of Rulebase.GetRule(String ruleName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.GetRules">
+            <summary>Sets the shim of Rulebase.GetRules()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimRulebase.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.AllInstances.AddRuleRule">
+            <summary>Sets the shim of Rulebase.AddRule(Rule rule)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.AllInstances.ClearRules">
+            <summary>Sets the shim of Rulebase.ClearRules()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.AllInstances.GetRuleString">
+            <summary>Sets the shim of Rulebase.GetRule(String ruleName)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimRulebase.AllInstances.GetRules">
+            <summary>Sets the shim of Rulebase.GetRules()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimSingletonFunction">
+            <summary>Shim type of AForge.Fuzzy.SingletonFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimSingletonFunction.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimSingletonFunction.#ctor(AForge.Fuzzy.SingletonFunction)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimSingletonFunction.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimSingletonFunction.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimSingletonFunction.Bind(AForge.Fuzzy.IMembershipFunction)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.ConstructorSingle">
+            <summary>Sets the shim of SingletonFunction.SingletonFunction(Single support)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.GetMembershipSingle">
+            <summary>Sets the shim of SingletonFunction.GetMembership(Single x)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.LeftLimitGet">
+            <summary>Sets the shim of SingletonFunction.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.RightLimitGet">
+            <summary>Sets the shim of SingletonFunction.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimSingletonFunction.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.AllInstances.GetMembershipSingle">
+            <summary>Sets the shim of SingletonFunction.GetMembership(Single x)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.AllInstances.LeftLimitGet">
+            <summary>Sets the shim of SingletonFunction.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimSingletonFunction.AllInstances.RightLimitGet">
+            <summary>Sets the shim of SingletonFunction.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction">
+            <summary>Shim type of AForge.Fuzzy.TrapezoidalFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.#ctor(AForge.Fuzzy.TrapezoidalFunction)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.Bind(AForge.Fuzzy.IMembershipFunction)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorInt32">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Int32 size)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorSingleSingleSingle">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Single m1, Single m2, Single m3)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorSingleSingleSingleSingle">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Single m1, Single m2, Single m3, Single m4)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorSingleSingleSingleSingleSingle">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Single m1, Single m2, Single m3, Single max, Single min)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorSingleSingleSingleSingleSingleSingle">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Single m1, Single m2, Single m3, Single m4, Single max, Single min)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorSingleSingleSingleSingleTrapezoidalFunctionEdgeType">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Single m1, Single m2, Single max, Single min, EdgeType edge)</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.ConstructorSingleSingleTrapezoidalFunctionEdgeType">
+            <summary>Sets the shim of TrapezoidalFunction.TrapezoidalFunction(Single m1, Single m2, EdgeType edge)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.ShimTrapezoidalFunction.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubCentroidDefuzzifier">
+            <summary>Stub type of AForge.Fuzzy.CentroidDefuzzifier</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubCentroidDefuzzifier.#ctor(System.Int32)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubCentroidDefuzzifier.InitializeStub">
+            <summary>Initializes a new instance of type StubCentroidDefuzzifier</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubCentroidDefuzzifier.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubCentroidDefuzzifier.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubCentroidDefuzzifier.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubClause">
+            <summary>Stub type of AForge.Fuzzy.Clause</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubClause.#ctor(AForge.Fuzzy.LinguisticVariable,AForge.Fuzzy.FuzzySet)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubClause.InitializeStub">
+            <summary>Initializes a new instance of type StubClause</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubClause.ToString">
+            <summary>Sets the stub of Clause.ToString()</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubClause.ToString01">
+            <summary>Sets the stub of Clause.ToString()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubClause.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubClause.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubClause.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubDatabase">
+            <summary>Stub type of AForge.Fuzzy.Database</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubDatabase.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubDatabase.InitializeStub">
+            <summary>Initializes a new instance of type StubDatabase</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubDatabase.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubDatabase.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubDatabase.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubFuzzySet">
+            <summary>Stub type of AForge.Fuzzy.FuzzySet</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubFuzzySet.#ctor(System.String,AForge.Fuzzy.IMembershipFunction)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubFuzzySet.InitializeStub">
+            <summary>Initializes a new instance of type StubFuzzySet</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubFuzzySet.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubFuzzySet.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubFuzzySet.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubICoNorm">
+            <summary>Stub type of AForge.Fuzzy.ICoNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubICoNorm.#ctor">
+            <summary>Initializes a new instance of type StubICoNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubICoNorm.aff::AForge#Fuzzy#ICoNorm#Evaluate(System.Single,System.Single)">
+            <summary>Sets the stub of ICoNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubICoNorm.EvaluateSingleSingle">
+            <summary>Sets the stub of ICoNorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubIDefuzzifier">
+            <summary>Stub type of AForge.Fuzzy.IDefuzzifier</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubIDefuzzifier.#ctor">
+            <summary>Initializes a new instance of type StubIDefuzzifier</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubIDefuzzifier.aff::AForge#Fuzzy#IDefuzzifier#Defuzzify(AForge.Fuzzy.FuzzyOutput,AForge.Fuzzy.INorm)">
+            <summary>Sets the stub of IDefuzzifier.Defuzzify(FuzzyOutput fuzzyOutput, INorm normOperator)</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubIDefuzzifier.DefuzzifyFuzzyOutputINorm">
+            <summary>Sets the stub of IDefuzzifier.Defuzzify(FuzzyOutput fuzzyOutput, INorm normOperator)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubIMembershipFunction">
+            <summary>Stub type of AForge.Fuzzy.IMembershipFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubIMembershipFunction.#ctor">
+            <summary>Initializes a new instance of type StubIMembershipFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubIMembershipFunction.aff::AForge#Fuzzy#IMembershipFunction#GetMembership(System.Single)">
+            <summary>Sets the stub of IMembershipFunction.GetMembership(Single x)</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubIMembershipFunction.GetMembershipSingle">
+            <summary>Sets the stub of IMembershipFunction.GetMembership(Single x)</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubIMembershipFunction.LeftLimitGet">
+            <summary>Sets the stub of IMembershipFunction.get_LeftLimit()</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubIMembershipFunction.RightLimitGet">
+            <summary>Sets the stub of IMembershipFunction.get_RightLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubIMembershipFunction.aff::AForge#Fuzzy#IMembershipFunction#LeftLimit">
+            <summary>Sets the stub of IMembershipFunction.get_LeftLimit()</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubIMembershipFunction.aff::AForge#Fuzzy#IMembershipFunction#RightLimit">
+            <summary>Sets the stub of IMembershipFunction.get_RightLimit()</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubINorm">
+            <summary>Stub type of AForge.Fuzzy.INorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubINorm.#ctor">
+            <summary>Initializes a new instance of type StubINorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubINorm.aff::AForge#Fuzzy#INorm#Evaluate(System.Single,System.Single)">
+            <summary>Sets the stub of INorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubINorm.EvaluateSingleSingle">
+            <summary>Sets the stub of INorm.Evaluate(Single membershipA, Single membershipB)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubIUnaryOperator">
+            <summary>Stub type of AForge.Fuzzy.IUnaryOperator</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubIUnaryOperator.#ctor">
+            <summary>Initializes a new instance of type StubIUnaryOperator</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubIUnaryOperator.aff::AForge#Fuzzy#IUnaryOperator#Evaluate(System.Single)">
+            <summary>Sets the stub of IUnaryOperator.Evaluate(Single membership)</summary>
+        </member>
+        <member name="F:AForge.Fuzzy.Fakes.StubIUnaryOperator.EvaluateSingle">
+            <summary>Sets the stub of IUnaryOperator.Evaluate(Single membership)</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubInferenceSystem">
+            <summary>Stub type of AForge.Fuzzy.InferenceSystem</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubInferenceSystem.#ctor(AForge.Fuzzy.Database,AForge.Fuzzy.IDefuzzifier)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubInferenceSystem.#ctor(AForge.Fuzzy.Database,AForge.Fuzzy.IDefuzzifier,AForge.Fuzzy.INorm,AForge.Fuzzy.ICoNorm)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubInferenceSystem.InitializeStub">
+            <summary>Initializes a new instance of type StubInferenceSystem</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubInferenceSystem.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubInferenceSystem.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubInferenceSystem.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubLinguisticVariable">
+            <summary>Stub type of AForge.Fuzzy.LinguisticVariable</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubLinguisticVariable.#ctor(System.String,System.Single,System.Single)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubLinguisticVariable.InitializeStub">
+            <summary>Initializes a new instance of type StubLinguisticVariable</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubLinguisticVariable.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubLinguisticVariable.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubLinguisticVariable.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubMaximumCoNorm">
+            <summary>Stub type of AForge.Fuzzy.MaximumCoNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubMaximumCoNorm.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubMaximumCoNorm.InitializeStub">
+            <summary>Initializes a new instance of type StubMaximumCoNorm</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubMaximumCoNorm.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubMaximumCoNorm.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubMaximumCoNorm.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubMinimumNorm">
+            <summary>Stub type of AForge.Fuzzy.MinimumNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubMinimumNorm.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubMinimumNorm.InitializeStub">
+            <summary>Initializes a new instance of type StubMinimumNorm</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubMinimumNorm.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubMinimumNorm.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubMinimumNorm.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubNotOperator">
+            <summary>Stub type of AForge.Fuzzy.NotOperator</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubNotOperator.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubNotOperator.InitializeStub">
+            <summary>Initializes a new instance of type StubNotOperator</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubNotOperator.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubNotOperator.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubNotOperator.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction">
+            <summary>Stub type of AForge.Fuzzy.PiecewiseLinearFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction.#ctor(AForge.Point[])">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction.InitializeStub">
+            <summary>Initializes a new instance of type StubPiecewiseLinearFunction</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubPiecewiseLinearFunction.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubProductNorm">
+            <summary>Stub type of AForge.Fuzzy.ProductNorm</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubProductNorm.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubProductNorm.InitializeStub">
+            <summary>Initializes a new instance of type StubProductNorm</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubProductNorm.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubProductNorm.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubProductNorm.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubRule">
+            <summary>Stub type of AForge.Fuzzy.Rule</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubRule.#ctor(AForge.Fuzzy.Database,System.String,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubRule.#ctor(AForge.Fuzzy.Database,System.String,System.String,AForge.Fuzzy.INorm,AForge.Fuzzy.ICoNorm)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubRule.InitializeStub">
+            <summary>Initializes a new instance of type StubRule</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubRule.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubRule.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubRule.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubRulebase">
+            <summary>Stub type of AForge.Fuzzy.Rulebase</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubRulebase.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubRulebase.InitializeStub">
+            <summary>Initializes a new instance of type StubRulebase</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubRulebase.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubRulebase.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubRulebase.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubSingletonFunction">
+            <summary>Stub type of AForge.Fuzzy.SingletonFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubSingletonFunction.#ctor(System.Single)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubSingletonFunction.InitializeStub">
+            <summary>Initializes a new instance of type StubSingletonFunction</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubSingletonFunction.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubSingletonFunction.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubSingletonFunction.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:AForge.Fuzzy.Fakes.StubTrapezoidalFunction">
+            <summary>Stub type of AForge.Fuzzy.TrapezoidalFunction</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.#ctor(System.Single,System.Single,System.Single)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.#ctor(System.Single,System.Single,AForge.Fuzzy.TrapezoidalFunction.EdgeType)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.#ctor(System.Single,System.Single,System.Single,System.Single)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.#ctor(System.Single,System.Single,System.Single,System.Single,AForge.Fuzzy.TrapezoidalFunction.EdgeType)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.InitializeStub">
+            <summary>Initializes a new instance of type StubTrapezoidalFunction</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AForge.Fuzzy.Fakes.StubTrapezoidalFunction.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
